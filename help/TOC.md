@@ -1,17 +1,17 @@
 ---
-user-guide-title: Adobe Advertentie-Tutorials
-user-guide-description: Een verzameling video's en zelfstudies voor advertenties van Adobe.
-breadcrumb-title: Reclame-Tutorials
+user-guide-title: Adobe advertentietutorials
+user-guide-description: Een verzameling video's en tutorials voor advertenties van Adobe.
+breadcrumb-title: Advertentietutorials
 solution: Advertising, Advertising Cloud
 source-git-commit: d30a1b72f953f0357d5f2d5c170153226369e519
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
 
-# Adobe Advertentie-Tutorials {#tutorials}
+# Adobe advertentietutorials {#tutorials}
 
 + [Overzicht](overview.md)
 + DSP {#dsp}
