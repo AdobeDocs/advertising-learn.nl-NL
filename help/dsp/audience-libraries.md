@@ -3,7 +3,7 @@ title: DSP Audience Libraries and Applying Behavioral Targeting
 description: Leer meer over herbruikbare publieksbibliotheken voor het aanpassen van het gedrag dat richt.
 source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

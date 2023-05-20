@@ -4,7 +4,7 @@ description: Leer hoe de Adobe-advertentieweergave en doorklikgegevens werken me
 exl-id: 9fadf819-17bf-47cc-b763-1375e426552f
 source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
