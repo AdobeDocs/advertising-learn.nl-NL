@@ -2,8 +2,9 @@
 user-guide-title: Adobe advertentietutorials
 user-guide-description: Een verzameling video's en tutorials voor advertenties van Adobe.
 breadcrumb-title: Advertentietutorials
-solution: Advertising
-source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
+role: User
+level: Beginner, Intermediate
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 15%
@@ -27,10 +28,10 @@ ht-degree: 15%
    + [Maken [!DNL Analytics] Segmenten voor activering en rapportage](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Inleiding tot [!DNL Analysis Workspace] voor het rapporteren van Adobe-advertentiegegevens](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Maken [!DNL Analytics] Profielen voor activering en rapportage van Adobe-reclame](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Maken [!DNL Analytics] Profielen voor activering en rapportage van Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Een analyse van vóór de introductie van de campagne maken met Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
-   + [Adobe-publicatiedashboards maken met Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Maken [!DNL Analytics] Aangepaste afmetingen met advertentiegegevens van Adobe](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Adobe Advertising-dashboards maken met Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
+   + [Maken [!DNL Analytics] Aangepaste waarden met Adobe Advertising-gegevens](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)

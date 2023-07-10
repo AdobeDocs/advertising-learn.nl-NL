@@ -1,8 +1,11 @@
 ---
 title: Maken [!DNL Analytics] Segmenten voor activering en rapportage
-description: Leer hoe u Adobe Advertising-dimensies kunt gebruiken om segmenten te maken voor een schonere rapportage en analyse.
+description: Leer hoe te om de dimensies van de Adobe Advertising te gebruiken om segmenten voor schonere rapportering en analyse tot stand te brengen.
+level: Intermediate, Experienced
+topic: Integrations
+feature: Integration with Adobe Analytics
 exl-id: f797e982-e49d-4038-982e-f2635e56591b
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -13,6 +16,6 @@ ht-degree: 0%
 
 *Adverteerders met[!DNL Adobe Analytics for Adobe Advertising]*
 
-Leer hoe u Adobe Advertising-dimensies kunt gebruiken om segmenten te maken voor een schonere rapportage en analyse.
+Leer hoe te om de dimensies van de Adobe Advertising te gebruiken om segmenten voor schonere rapportering en analyse tot stand te brengen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33916)
