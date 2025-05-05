@@ -14,7 +14,7 @@ ht-degree: 25%
 
 # Adobe advertentietutorials
 
-Deze videoleerprogramma&#39;s, samen met de [ documentatie van de Adobe Advertising ](https://experienceleague.adobe.com/en/docs/advertising), zullen u helpen Adobe Advertising gebruiken om klanteninzichten sneller dan ooit te bereiken.
+Deze videoleerprogramma&#39;s, samen met de [ documentatie van de Adobe Advertising ](https://experienceleague.adobe.com/nl/docs/advertising), zullen u helpen Adobe Advertising gebruiken om klanteninzichten sneller dan ooit te bereiken.
 
 Er zijn video&#39;s beschikbaar voor:
 
