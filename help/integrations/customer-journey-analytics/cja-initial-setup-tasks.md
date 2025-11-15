@@ -17,7 +17,7 @@ ht-degree: 0%
 
 In deze video ziet u de eerste stappen die nodig zijn om Customer Journey Analytics-conversiegebeurtenissen naar Adobe Advertising te verzenden. U kunt deze gebeurtenissen later opnemen in de optimalisatiedoelstellingen.
 
-Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-accountteam hebt verzonden, kunt u de aanvullende stappen voor het instellen van de integratie voltooien. Voor meer informatie over de extra stappen, lees de [ volledige documentatie ](/help/integrations/customer-journey-analytics/overview.md).
+Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-accountteam hebt verzonden, kunt u de aanvullende stappen voor het instellen van de integratie voltooien. Voor meer informatie over de extra stappen, lees de [&#x200B; volledige documentatie &#x200B;](/help/integrations/customer-journey-analytics/overview.md).
 
 ## Overzicht
 
@@ -33,5 +33,5 @@ Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-account
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van de integratie tussen Adobe Advertising met Customer Journey Analytics ](/help/integrations/customer-journey-analytics/overview.md)
+>* [&#x200B; Overzicht van de integratie tussen Adobe Advertising met Customer Journey Analytics &#x200B;](/help/integrations/customer-journey-analytics/overview.md)
 
