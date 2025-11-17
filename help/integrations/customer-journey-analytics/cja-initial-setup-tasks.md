@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: e1ff921683f43266a56bcc4d4ee8870e186ca165
+source-git-commit: de07d9c78e3b7704079b93a03b190e8ff180f655
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 In deze video ziet u de eerste stappen die nodig zijn om Customer Journey Analytics-conversiegebeurtenissen naar Adobe Advertising te verzenden. U kunt deze gebeurtenissen later opnemen in de optimalisatiedoelstellingen.
 
-Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-accountteam hebt verzonden, kunt u de aanvullende stappen voor het instellen van de integratie voltooien. Voor meer informatie over de extra stappen, lees de [&#x200B; volledige documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/integrations/customer-journey-analytics/overview).
+Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-accountteam hebt verzonden, kunt u de aanvullende stappen voor het instellen van de integratie voltooien. Voor meer informatie over de extra stappen, lees de [ volledige documentatie ](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
 
 ## Overzicht
 
@@ -29,9 +29,8 @@ Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-account
 
 ## Een gegevensweergave in Analysis Workspace maken met de te exporteren cijfers
 
->[!VIDEO](https://video.tv.adobe.com/v/3476762?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht van de integratie tussen Adobe Advertising met Customer Journey Analytics &#x200B;](/help/integrations/customer-journey-analytics/overview.md)
-
+>* [ Overzicht van de integratie tussen Adobe Advertising met Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
