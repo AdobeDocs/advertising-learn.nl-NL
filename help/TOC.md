@@ -5,7 +5,7 @@ breadcrumb-title: Advertentietutorials
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: af0409a219fa4ec52ea4e5939c3c68940156e968
+source-git-commit: 387ce23256fd76e8835a33ead30be6e1d75799cd
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 17%
@@ -33,7 +33,7 @@ ht-degree: 17%
    + [Een analyse van vóór de introductie van de campagne maken met Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Adobe Advertising-dashboards maken met Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Creeer  [!DNL Analytics]  Metriek van de Douane met de Gegevens van Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
++ [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
