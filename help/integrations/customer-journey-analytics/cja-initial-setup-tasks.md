@@ -29,7 +29,7 @@ Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-account
 
 ## Een gegevensweergave in Analysis Workspace maken met de te exporteren cijfers
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476762?captions=dut&learn=on)
 
 >[!MORELIKETHIS]
 >
