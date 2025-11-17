@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: 7f71e18cb639642e6c6b7c8a97c612855e3efdef
+source-git-commit: 0673141e34adf4634c4af068375137573b7f2598
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -19,38 +19,42 @@ ht-degree: 0%
 
 In deze video ziet u de eerste stappen die nodig zijn om Customer Journey Analytics-conversiegebeurtenissen naar Adobe Advertising te verzenden. U kunt deze gebeurtenissen later opnemen in de optimalisatiedoelstellingen.
 
-Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-accountteam hebt verzonden, kunt u de aanvullende stappen voor het instellen van de integratie voltooien. Voor meer informatie over de extra stappen, lees de [&#x200B; volledige documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/integrations/customer-journey-analytics/overview).
+Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-accountteam hebt verzonden, kunt u de aanvullende stappen voor het instellen van de integratie voltooien.
 
 ### Overzicht
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
-### Een locatieaccount instellen in Customer Journey Analytics
+### Stap 1: Een locatieaccount instellen in Customer Journey Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476811)
 
-### Een gegevensweergave in Analysis Workspace maken met de te exporteren cijfers
+### Stap 2: Maak een gegevensweergave in Analysis Workspace met de te exporteren cijfers
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476823)
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht van de integratie tussen Adobe Advertising met Customer Journey Analytics &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [ Overzicht van de integratie tussen Adobe Advertising met Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
-## Eerste instellingstaken om Adobe Advertising-campagnegegevens in Customer Journey Analytics weer te geven
+## Stappen om Adobe Advertising-campagnegegevens in Customer Journey Analytics weer te geven
 
 ### Overzicht
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476847)
 
-### Verbinding instellen in Customer Journey Analytics
+### Stap 1: Een verbinding instellen in Customer Journey Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476860)
 
-### Gegevensweergaven instellen in Customer Journey Analytics
+### Stap 2: De gegevensweergaven instellen in Customer Journey Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476872?learn=on)
 
-### Standaardinstellingen en afgeleide velden voor Adobe Advertising-afmetingen configureren
+### Stap 3: Configureer persistentie-instellingen en afgeleide velden voor Adobe Advertising-afmetingen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+
+>[!MORELIKETHIS]
+>
+>* [ Geschreven documentatie ](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
