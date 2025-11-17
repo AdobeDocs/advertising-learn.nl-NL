@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: 7d5428d459a4f3af9847134feaa8ac06d7e6e003
+source-git-commit: e1ff921683f43266a56bcc4d4ee8870e186ca165
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 In deze video ziet u de eerste stappen die nodig zijn om Customer Journey Analytics-conversiegebeurtenissen naar Adobe Advertising te verzenden. U kunt deze gebeurtenissen later opnemen in de optimalisatiedoelstellingen.
 
-Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-accountteam hebt verzonden, kunt u de aanvullende stappen voor het instellen van de integratie voltooien. Voor meer informatie over de extra stappen, lees de [&#x200B; volledige documentatie &#x200B;](/help/integrations/customer-journey-analytics/overview.md).
+Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-accountteam hebt verzonden, kunt u de aanvullende stappen voor het instellen van de integratie voltooien. Voor meer informatie over de extra stappen, lees de [ volledige documentatie ](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
 
 ## Overzicht
 
@@ -33,5 +33,5 @@ Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-account
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht van de integratie tussen Adobe Advertising met Customer Journey Analytics &#x200B;](/help/integrations/customer-journey-analytics/overview.md)
+>* [ Overzicht van de integratie tussen Adobe Advertising met Customer Journey Analytics ](/help/integrations/customer-journey-analytics/overview.md)
 
