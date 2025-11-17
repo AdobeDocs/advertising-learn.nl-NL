@@ -5,10 +5,10 @@ breadcrumb-title: Advertentietutorials
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 65f84dafc00203be415e60f4e3aabbfba70d7fbb
+source-git-commit: 7db450a4a32002b8d4a586d4b90b65421fa5e71e
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 15%
+source-wordcount: '115'
+ht-degree: 14%
 
 ---
 
@@ -17,22 +17,23 @@ ht-degree: 15%
 
 + [Overzicht](overview.md)
 + DSP {#dsp}
-   + [Inleiding tot DSP](/help/dsp/intro.md)
+   + [Inleiding tot Advertising DSP](/help/dsp/intro.md)
    + [Accountstructuur en gebruikersinterface](/help/dsp/ui.md)
    + [Een pakket maken](/help/dsp/package-create.md)
    + [Hoe te om een StandaardPlaatsing van de Vertoning te creëren](/help/dsp/placement-create.md)
    + [Plaatsen bewerken met Bulk bewerkingsgereedschappen](/help/dsp/bulk-edit-placement-tools.md)
    + [Hoe te om te bulken uploadt de Markeringen van de Derden Ad](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [Inleiding tot [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
-   + [Rapporten over site-invoer voor Adobe Advertising maken](/help/integrations/analytics/analytics-site-entry-a4adc.md)
-   + [Maken [!DNL Analytics] Segmenten voor activering en rapportage](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [Inleiding tot [!DNL Analysis Workspace] voor het rapporteren van Adobe Advertising](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [Gebruiken [!DNL Marketing Channels] voor rapportage van Adoben Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Maken [!DNL Analytics] Profielen voor activering en rapportage van Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Inleiding tot  [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
+   + [Rapporten Adobe Advertising-site-item maken](/help/integrations/analytics/analytics-site-entry-a4adc.md)
+   + [Creeer  [!DNL Analytics]  Segmenten voor Activering en het Melden](/help/integrations/analytics/analytics-segments-a4adc.md)
+   + [Inleiding aan  [!DNL Analysis Workspace]  voor het Melden van de Gegevens van Adobe Advertising](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [Gebruikend  [!DNL Marketing Channels]  voor het Melden van Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [Creeer  [!DNL Analytics]  Profielen voor de Activering en het Melden van Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Een analyse van vóór de introductie van de campagne maken met Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Adobe Advertising-dashboards maken met Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Maken [!DNL Analytics] Aangepaste waarden met Adobe Advertising-gegevens](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Creeer  [!DNL Analytics]  Metriek van de Douane met de Gegevens van Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
++ [!DNL Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
