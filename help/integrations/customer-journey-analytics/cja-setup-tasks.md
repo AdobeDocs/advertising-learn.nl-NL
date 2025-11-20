@@ -23,7 +23,7 @@ Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-account
 
 ### Overzicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476829?captions=dut)
 
 ### Stap 1: Een locatieaccount instellen in Customer Journey Analytics
 
@@ -53,7 +53,7 @@ Nadat u deze stappen hebt uitgevoerd en de gegevensweergave aan uw Adobe-account
 
 ### Stap 3: Configureer persistentie-instellingen en afgeleide velden voor Adobe Advertising-afmetingen
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476938?captions=dut&learn=on)
 
 >[!MORELIKETHIS]
 >
